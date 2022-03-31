@@ -8,8 +8,8 @@ Set up a python virtual environment
 
 Run the following commands
 
-  pip install -r requirements.txt 
-  python manage.py makemigrations
+  pip install -r requirements.txt<br>
+  python manage.py makemigrations<br>
   python manage.py migrate
   python manage.py createsuperuser
   python manage.py runserver
