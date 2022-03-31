@@ -8,10 +8,10 @@ Set up a python virtual environment
 
 Run the following commands:
 
-  1.pip install -r requirements.txt<br>
-  2.python manage.py makemigrations<br>
-  3.python manage.py migrate<br>
-  4.python manage.py createsuperuser<br>
-  5.python manage.py runserver<br>
+  1. pip install -r requirements.txt<br>
+  2. python manage.py makemigrations<br>
+  3. python manage.py migrate<br>
+  4. python manage.py createsuperuser<br>
+  5. python manage.py runserver<br>
   
 Open a browser and go to http://localhost:8000/
