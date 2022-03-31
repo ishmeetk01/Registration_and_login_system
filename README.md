@@ -1,4 +1,6 @@
-This web app has been developed using the popular Django framework and Bootstrap for the frontend. My motivation to build this project is so that I can learn about Django and tighten up my skills. This mini-app can be easily integrated into a bigger system project that needs to have a registration and login system.
+**Description**
+
+This web app has been developed using the popular Django framework. This mini project can be easily integrated into a bigger system project that needs to have a registration and login system.
 
 **Quick Start**
 
@@ -14,4 +16,4 @@ Run the following commands:
   4. python manage.py createsuperuser<br>
   5. python manage.py runserver<br>
   
-Open a browser and go to http://localhost:8000/
+Open a browser and go to http://localhost:8000/register
