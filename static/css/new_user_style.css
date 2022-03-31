@@ -1,0 +1,80 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+h1
+{
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    padding-bottom: 10px;
+}
+body
+{
+    background-image: radial-gradient(circle, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+.form
+{
+    width: 590px;
+    background: rgba(0,0,0,0.3);
+    margin:100px auto 40px;
+    padding: 60px 0;
+    color: #fff;   
+}
+.input
+{
+    margin: 30px auto;
+    width: 80%;
+    border-bottom: 1px solid #fff;
+    padding-top: 25px;
+    padding-bottom: 5px;
+}
+.input input
+{
+    width: 90%;
+    border: none;
+    outline: none;
+    background: transparent;
+    color: #fff;
+}
+::placeholder
+{
+    color: #ccc;
+}
+.register-btn
+{
+    margin: 60px auto 0px;
+    width: 50%;
+    display: block;
+    outline: none;
+    padding: 15px 0;
+    border: 1px solid #fff;
+    cursor: pointer;
+    background: transparent;
+    color: #fff;
+    font-size: 16px;
+    background: #00c9b7;
+    border-radius: 40px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+a:link, a:visited, a:hover, a:active
+{
+    text-decoration: none;
+}
+.error
+{
+    color: red;
+    margin-left: 10%;
+}
+.login
+{
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+h5
+{
+    display: inline-block;
+}
+
