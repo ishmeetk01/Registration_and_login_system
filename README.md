@@ -1,10 +1,10 @@
 **Description**
 
-This web app has been developed using the popular Django framework. This mini project can be easily integrated into a bigger system project that needs to have a registration and login system.
+*This web app has been developed using the popular Django framework. This mini project can be easily integrated into a bigger system project that needs to have a registration and login system.*
 
 **Quick Start**
 
-To get this project up and running locally on your computer follow the following steps.
+*To get this project up and running locally on your computer follow the following steps.
 
 Set up a python virtual environment
 
@@ -16,4 +16,4 @@ Run the following commands:
   4. python manage.py createsuperuser<br>
   5. python manage.py runserver<br>
   
-Open a browser and go to http://localhost:8000/register
+Open a browser and go to http://localhost:8000/register*
