@@ -10,8 +10,8 @@ Run the following commands
 
   pip install -r requirements.txt<br>
   python manage.py makemigrations<br>
-  python manage.py migrate
-  python manage.py createsuperuser
-  python manage.py runserver
+  python manage.py migrate<br>
+  python manage.py createsuperuser<br>
+  python manage.py runserver<br>
   
 Open a browser and go to http://localhost:8000/
